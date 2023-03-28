@@ -1,1 +1,2 @@
-# Coursera_Tools_for_Data_Science
+# Coursera: IBM Tools for Data Science
+## Tasks of the peer reviewed assignment
